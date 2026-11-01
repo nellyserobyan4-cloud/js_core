@@ -1,3 +1,3 @@
 # js_core
-# js_core
-# js_core
+
+JavaScript exercises and homework.
